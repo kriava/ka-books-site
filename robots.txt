@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ka-books-site.netlify.app/sitemap.xml
